@@ -5,7 +5,7 @@ import vue from '@vitejs/plugin-vue'
 import vueDevTools from 'vite-plugin-vue-devtools'
 import tailwindcss from '@tailwindcss/vite'
 
-const backendUrl = 'web-developer-blog-production-36bb.up.railway.app'
+const backendUrl = 'https://web-developer-blog-production-36bb.up.railway.app'
 
 // https://vite.dev/config/
 export default defineConfig({
