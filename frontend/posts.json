@@ -1,0 +1,52 @@
+[
+  {
+    "login": "alex_ivanov",
+    "roleId": 1,
+    "createdAt": "2025-11-05T17:40:25.204+00:00"
+  },
+  {
+    "login": "maria_petrova",
+    "roleId": 2,
+    "createdAt": "2025-10-15T09:22:10.123+00:00"
+  },
+  {
+    "login": "sergey_smirnov",
+    "roleId": 0,
+    "createdAt": "2025-09-28T14:35:47.456+00:00"
+  },
+  {
+    "login": "olga_kuznetsova",
+    "roleId": 1,
+    "createdAt": "2025-08-12T11:15:33.789+00:00"
+  },
+  {
+    "login": "dmitry_fedorov",
+    "roleId": 2,
+    "createdAt": "2025-07-03T16:48:19.321+00:00"
+  },
+  {
+    "login": "anna_nikolaeva",
+    "roleId": 0,
+    "createdAt": "2025-06-21T08:55:42.654+00:00"
+  },
+  {
+    "login": "mikhail_orlov",
+    "roleId": 1,
+    "createdAt": "2025-05-14T13:27:58.987+00:00"
+  },
+  {
+    "login": "ekaterina_sokolova",
+    "roleId": 2,
+    "createdAt": "2025-04-07T10:39:14.135+00:00"
+  },
+  {
+    "login": "ivan_volkov",
+    "roleId": 0,
+    "createdAt": "2025-03-19T19:12:06.246+00:00"
+  },
+  {
+    "login": "natalia_morozova",
+    "roleId": 1,
+    "createdAt": "2025-02-25T12:44:37.579+00:00"
+  }
+]

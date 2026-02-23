@@ -1,0 +1,46 @@
+@import 'tailwindcss';
+
+@layer components {
+  .btn {
+    @apply cursor-pointer rounded-md bg-blue-500 px-5 py-2 text-white transition-colors duration-300 hover:bg-blue-600;
+  }
+  .btn-login {
+    @apply cursor-pointer rounded-md bg-blue-500 px-5 py-2 text-white transition-colors duration-300 hover:bg-blue-600;
+  }
+  .icon-hover {
+    @apply transition-all duration-300 hover:scale-115 hover:text-blue-500;
+  }
+  .link-article {
+    @apply flex flex-col rounded-md bg-white p-4 shadow-sm transition-shadow duration-300 ease-in-out hover:shadow-xl;
+  }
+  .error {
+    @apply text-red-500;
+  }
+  .success {
+    @apply text-green-500;
+  }
+  .warning {
+    @apply text-yellow-500;
+  }
+  .info {
+    @apply text-blue-500;
+  }
+  .loading {
+    @apply flex items-center justify-center text-gray-500;
+  }
+  .active-link {
+    @apply cursor-pointer underline hover:text-blue-500;
+  }
+  .disabled-link {
+    @apply cursor-default text-gray-400;
+  }
+  .form-input {
+    @apply w-full rounded-md border border-gray-300 bg-white px-3 py-2 focus:ring-2 focus:ring-blue-500 focus:outline-none;
+  }
+  .icon-btn {
+    @apply cursor-pointer rounded-md bg-blue-500 px-2 py-1 text-white transition-colors duration-300 hover:bg-blue-600;
+  }
+  .btn-modal {
+    @apply cursor-pointer rounded-md bg-blue-500 px-4 py-2 text-white transition-colors duration-300 hover:bg-blue-600;
+  }
+}
