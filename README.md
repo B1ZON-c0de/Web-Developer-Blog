@@ -77,8 +77,7 @@ Express + MongoDB на бэке. Ну и потренироваться с TypeS
 ### 1. Клонировать репозиторий
 
 ```bash
-git clone https://github.com/username/blog-project.git
-cd blog-project
+https://github.com/B1ZON-c0de/Web-Developer-Blog.git
 ```
 
 ### 2. Бэкенд
